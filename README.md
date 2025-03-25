@@ -4,10 +4,10 @@
 - 📫 Contate-me no email: lucassilvarodrigss16@gmail.com
 - 😄 Pronomes: ele/dele
 </a>
-    <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+    <a href="https://github.com/lcssilvaa/Simple-View-Counter">
     <img
-        alt="views" 
-        title="GitHub profile views" 
+        alt="Visualizações" 
+        title="Visualizações do Github" 
         src="https://freshidea.com/jonah/app/lcssilvaa-profile-views"
     />
 </a> 
