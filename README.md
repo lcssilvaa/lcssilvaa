@@ -1,6 +1,6 @@
 ## Olá, sou o Lucas Silva Rodrigues 👋
 
-- 🌱 Estudando Java e MySql
+- 🌱 Estudando Java e MySQL
 - 📫 Contate-me no email: lucassilvarodrigss16@gmail.com
 - 😄 Pronomes: ele/dele
 
@@ -39,7 +39,7 @@
     title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
+    src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"
 />
 <img 
     align="left" 
