@@ -8,7 +8,7 @@
     <img
         alt="Visualizações" 
         title="Visualizações do Github" 
-        src="https://custom-icon-badges.demolab.com/github/followers/lcssilvaa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
+        src="https://freshidea.com/jonah/app/lcssilvaa-profile-views"
     />
 </a> 
     <a href="https://github.com/lcssilvaa?tab=repositories&sort=stargazers">
