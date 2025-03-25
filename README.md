@@ -31,7 +31,7 @@
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
 />
 <img 
     align="left" 
@@ -39,7 +39,7 @@
     title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
 />
 <img 
     align="left" 
@@ -47,7 +47,7 @@
     title="Figma"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
 />
 
 <br/>
