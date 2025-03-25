@@ -61,6 +61,8 @@
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
