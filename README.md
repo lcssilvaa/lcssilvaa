@@ -3,13 +3,7 @@
 - 🌱 Estudando Java e MySql
 - 📫 Contate-me no email: lucassilvarodrigss16@gmail.com
 - 😄 Pronomes: ele/dele
-</a>
-    <a href="https://github.com/lcssilvaa/Simple-View-Counter">
-    <img
-        alt="Visualizações" 
-        title="Visualizações do Github" 
-        src="https://freshidea.com/jonah/app/lcssilvaa-profile-views"
-    />
+
 </a> 
     <a href="https://github.com/lcssilvaa?tab=repositories&sort=stargazers">
         <img 
