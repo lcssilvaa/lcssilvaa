@@ -3,18 +3,6 @@
 - 🌱 Estudando Java e MySQL
 - 📫 Contate-me no email: lucassilvarodrigss16@gmail.com
 
----
-
-### 🧑‍💻 Redes Sociais
-
-<p align="left">
-<a href="https://linkedin.com/in/lucas-silva-rodrigues-88a3522b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-silva-rodrigues-88a3522b4" height="30" width="40" /></a>
-<a href="https://instagram.com/lcs.silvaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lcs.silvaa_" height="30" width="40" /></a>
-<a href="https://discord.gg/lcs.silvaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lcs.silvaa" height="30" width="40" /></a>
-</p>
-
----
-
 </a> 
     <a href="https://github.com/lcssilvaa?tab=repositories&sort=stargazers">
         <img 
@@ -31,6 +19,15 @@
         />
     </a>
 </p>
+
+---
+
+### 🧑‍💻 Redes Sociais
+
+<p align="left">
+<a href="https://linkedin.com/in/lucas-silva-rodrigues-88a3522b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-silva-rodrigues-88a3522b4" height="30" width="40" /></a>
+<a href="https://instagram.com/lcs.silvaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lcs.silvaa_" height="30" width="40" /></a>
+<a href="https://discord.gg/lcs.silvaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lcs.silvaa" height="30" width="40" /></a>
 
 ---
 
