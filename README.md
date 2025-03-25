@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Java e MySQL
 - 📫 Contate-me no email: lucassilvarodrigss16@gmail.com
-- 😄 Pronomes: ele/dele
+
 
 <p align="left">
 <a href="https://linkedin.com/in/lucas-silva-rodrigues-88a3522b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-silva-rodrigues-88a3522b4" height="30" width="40" /></a>
