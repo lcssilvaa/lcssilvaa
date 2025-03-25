@@ -87,8 +87,6 @@
 <br/>
 <br/>
 
- --- 
-
 </p>
 
 <h3>💻 Software e Ferramentas</h3>
