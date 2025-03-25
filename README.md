@@ -39,7 +39,7 @@
     title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"
+    src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg
 />
 <img 
     align="left" 
