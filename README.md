@@ -1,12 +1,8 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6898EA&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Olá,+me+chamo+Lucas+Silva+Rodrigues!+%E2%8A%B9"Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6898EA&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Olá,+me+chamo+Lucas+Silva+Rodrigues!+%E2%8A%B9" alt="Typing SVG">
   </a>
 </div>
-
-<img align="center" alt="" src="./src/header-gif.gif">
-
-#
 
 - 🌱 Estudando Java e MySQL
 - 📫 Contate-me no email: lucassilvarodrigss16@gmail.com
