@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6898EA&center=true&vCenter=true&random=false&width=500&lines=‹+Olá,+me+chamo+Lucas+Silva+Rodrigues!+›" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6898EA&center=true&vCenter=true&width=500&lines=‹+Olá,+me+chamo+Lucas+Silva+Rodrigues!+›" 
+    alt="Lucas Silva Rodrigues typing animation"
+  />
 </div>
 
 ---
