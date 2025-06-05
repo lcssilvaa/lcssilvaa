@@ -49,8 +49,12 @@
 
 <p align="left">
   <img alt="Java" title="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img alt="MySQL" title="MySQL" width="30px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
+  <img alt="MySQL" title="MySQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  <img alt="CSS" title="CSS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img alt="Figma" title="Figma" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+  <img alt="Eclipse" title="Eclipse" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" />
+  <img alt="IntelliJ IDEA" title="IntelliJ IDEA" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
+  <img alt="NetBeans" title="NetBeans" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" />
 </p>
 
 ---
@@ -75,6 +79,9 @@
 ### 💻 Software e Ferramentas
 
 <p align="left">
+  <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?logo=eclipse&logoColor=white"></a>
+  <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ-000000.svg?logo=intellij-idea&logoColor=white"></a>
+  <a href="#"><img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white"></a>
   <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
   <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
