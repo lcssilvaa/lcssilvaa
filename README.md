@@ -5,10 +5,6 @@
   />
 </div>
 
-<p align="center">
-  🚀 Desenvolvedor em formação, apaixonado por tecnologia e em constante evolução.
-</p>
-
 ---
 
 ### 🧠 Sobre Mim
