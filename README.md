@@ -9,11 +9,11 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um estudante de **Análise e Desenvolvimento de Sistemas** em constante evolução, apaixonado por tecnologia e desenvolvimento de soluções inteligentes. Atualmente, estou focado no aprendizado de tecnologias voltadas para o **back-end com Java**, **banco de dados com MySQL**, e **desenvolvimento front-end** utilizando **HTML/CSS**. Busco aprimorar minhas habilidades diariamente através de projetos, estudos e boas práticas de programação.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em tecnologias back-end e banco de dados. Tenho experiência prática com **Java** e **MySQL**, desenvolvendo projetos que envolvem lógica de programação, persistência de dados e boas práticas de codificação. Busco aprimorar constantemente meus conhecimentos com estudos, projetos pessoais e experiências profissionais.
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 🔍 Focado em aprender **Java**, **MySQL**, **HTML**, **CSS** e **JavaScript**
-- 🛠️ Desenvolvendo projetos práticos para reforçar o aprendizado
+- 🔧 Focado em **Java (orientação a objetos, JDBC, Spring Boot)** e **MySQL**
+- 🗃️ Experiência com **persistência de dados**, **modelagem de banco** e **consultas SQL**
 - 📬 Contato: **lucassilvarodrigss16@gmail.com**
 
 ---
@@ -34,19 +34,15 @@ Sou um estudante de **Análise e Desenvolvimento de Sistemas** em constante evol
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### ⚙️ Tecnologias e Ferramentas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" title="Eclipse" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ" width="40" height="40"/>
 </div>
 
 ---
