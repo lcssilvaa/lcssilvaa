@@ -49,9 +49,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em tecnolo
 
 ### 📊 GitHub Insights
 
-<div align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lcssilvaa&show_icons=true&theme=tokyonight&locale=pt-br" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcssilvaa&layout=compact&theme=tokyonight&langs_count=8" />
+<div align="center">
+  <img width="420" height="170" src="https://github-readme-stats.vercel.app/api?username=lcssilvaa&show_icons=true&theme=tokyonight&locale=pt-br" />
+  <img width="420" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcssilvaa&layout=compact&theme=tokyonight&langs_count=8" />
 </div>
 
 ---
