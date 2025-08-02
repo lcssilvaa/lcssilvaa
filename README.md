@@ -7,11 +7,14 @@
 
 ---
 
-### 🧠 Sobre Mim
+### 👨‍💻 Sobre Mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🌱 Atualmente estudando **Java**, **MySQL** e desenvolvimento front-end com **HTML/CSS**
-- 📫 Contato: **lucassilvarodrigss16@gmail.com**
+Sou um estudante de **Análise e Desenvolvimento de Sistemas** em constante evolução, apaixonado por tecnologia e desenvolvimento de soluções inteligentes. Atualmente, estou focado no aprendizado de tecnologias voltadas para o **back-end com Java**, **banco de dados com MySQL**, e **desenvolvimento front-end** utilizando **HTML/CSS**. Busco aprimorar minhas habilidades diariamente através de projetos, estudos e boas práticas de programação.
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
+- 🔍 Focado em aprender **Java**, **MySQL**, **HTML**, **CSS** e **JavaScript**
+- 🛠️ Desenvolvendo projetos práticos para reforçar o aprendizado
+- 📬 Contato: **lucassilvarodrigss16@gmail.com**
 
 ---
 
@@ -31,7 +34,7 @@
 
 ---
 
-### 🧰 Tecnologias e Ferramentas
+### 🛠️ Tecnologias & Ferramentas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>
@@ -48,7 +51,7 @@
 
 ---
 
-### 📈 Estatísticas
+### 📊 GitHub Insights
 
 <div align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=lcssilvaa&show_icons=true&theme=tokyonight&locale=pt-br" />
@@ -57,7 +60,7 @@
 
 ---
 
-### 🐍 Contribuições
+### 🐍 Atividade Recente
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lcssilvaa/lcssilvaa/output/github-contribution-grid-snake-dark.svg">
