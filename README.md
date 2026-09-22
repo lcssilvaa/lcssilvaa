@@ -27,6 +27,9 @@ Spring Boot API running on Raspberry Pi for collecting and monitoring electrical
 **Inventory Automation**  
 Python automation for inventory analysis, Excel processing and automatic email notifications.
 
+**Simplifica Social**  
+Social benefits assistant focused on simplifying access to information about programs such as CadÚnico, BPC/LOAS and Bolsa Família through a chatbot and web interface.
+
 ---
 
 ### Connect with me
