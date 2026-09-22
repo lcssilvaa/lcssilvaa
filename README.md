@@ -1,33 +1,14 @@
 # Lucas Silva Rodrigues
 
-Software Developer focused on **backend development, automation and systems integration**.
+Systems Analysis & Development Student • Automation • Backend • APIs
 
-Currently studying **Systems Analysis and Development** and working with automation, APIs, databases, infrastructure and process optimization.
+Working with automation, APIs, databases, infrastructure and process optimization.
 
 ---
-
-### Main Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,docker" />
-</p>
-
-### Frontend
+### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
-
-### Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,nginx,docker,raspberrypi" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,postgres,mysql,docker,linux,nginx,raspberrypi" />
 </p>
 
 ### Tools
@@ -36,15 +17,7 @@ Currently studying **Systems Analysis and Development** and working with automat
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,idea" />
 </p>
 
-`Power BI` · `Excel` · `Portainer` · `REST APIs` · `JWT` · `Docker Compose`
-
-### Currently studying
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" />
-</p>
-
-Cloud · DevOps · Backend Architecture · Distributed Systems
+`Power BI` · `Excel` · `Portainer` · `REST APIs` · `JWT`
 
 ### Projects
 
